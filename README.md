@@ -8,7 +8,7 @@ A Cloud ready Post it app composed of
 To run this demo:
 
 1. Add your prefered Che or CodeReady Workspaces instance: https://blog.sunix.org/factory 
-2. Start the workspace: [![Contribute](factory-contribute.svg)](https://blog.sunix.org/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app)
+2. Start the workspace: [![Contribute](factory-contribute.svg)](https://codeready-crw2.apps.ocp4.home.ocpcloud.com/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app)
 
 or
 
