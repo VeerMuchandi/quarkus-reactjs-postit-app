@@ -13,7 +13,7 @@ To run this demo:
 or
 
 ```
-https://<your-codeready-workspaces-instance>/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app
+https://codeready-crw2.apps.ocp4.home.ocpcloud.com/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app
 ```
 
 
